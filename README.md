@@ -3,4 +3,4 @@ This is my CodingNinjas Frontend Course Project of Music Player Using HTML and C
 
 ### Live Preview of the Project :
 
-[`Click on the link`](https://smanika.github.io/MUSIC-PAYER-CODING-NINJA-PROJECT/)
+[`Click on the link`]
